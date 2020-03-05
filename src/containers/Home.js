@@ -56,6 +56,7 @@ export default function Home(props) {
       <div className='lander'>
         <h1>Scratch</h1>
         <p>A simple note taking app</p>
+        <p>With TestoBooster</p>
       </div>
     )
   }
